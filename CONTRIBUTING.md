@@ -10,4 +10,4 @@ We learn ethical hacking here, for discussions about hacking in general please r
 
 Please don't submit unverified or untested tools. We only want to share tools that have good community of contributors. If you've created a tool, be sure the code is stable and will be maintained.
 
-Thank you for sharing and contributing ! :tada:
+Thank you for sharing and contributing! :tada:
